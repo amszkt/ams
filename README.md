@@ -30,7 +30,7 @@
 
 Here, you'll find:
 
-A directory of trusted lawyers for legal guidance.
+
 Listings of community assistance programs to help with various needs.
 Information on free housing opportunities and shelters.
 Details about free food programs to ensure no one goes hungry.
